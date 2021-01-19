@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2021-sp-react-boot-webpage/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/2021-sp-react-boot-webpage/static/js/main.f7f8ba64.chunk.js",
+    "main.js.map": "/2021-sp-react-boot-webpage/static/js/main.f7f8ba64.chunk.js.map",
+    "runtime-main.js": "/2021-sp-react-boot-webpage/static/js/runtime-main.5056898f.js",
+    "runtime-main.js.map": "/2021-sp-react-boot-webpage/static/js/runtime-main.5056898f.js.map",
+    "static/js/2.cb495a84.chunk.js": "/2021-sp-react-boot-webpage/static/js/2.cb495a84.chunk.js",
+    "static/js/2.cb495a84.chunk.js.map": "/2021-sp-react-boot-webpage/static/js/2.cb495a84.chunk.js.map",
+    "static/js/3.8cb1a386.chunk.js": "/2021-sp-react-boot-webpage/static/js/3.8cb1a386.chunk.js",
+    "static/js/3.8cb1a386.chunk.js.map": "/2021-sp-react-boot-webpage/static/js/3.8cb1a386.chunk.js.map",
+    "index.html": "/2021-sp-react-boot-webpage/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/2021-sp-react-boot-webpage/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cb495a84.chunk.js.LICENSE.txt": "/2021-sp-react-boot-webpage/static/js/2.cb495a84.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/2021-sp-react-boot-webpage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5056898f.js",
+    "static/js/2.cb495a84.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f7f8ba64.chunk.js"
+  ]
+}
